@@ -15,3 +15,7 @@ print(course)
 
 print("Python" in course)
 print("python" in course)
+
+words = course.split(" ")
+print(words)
+print(words[2])
