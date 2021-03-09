@@ -1,4 +1,9 @@
 {
   "python.pythonPath": "C:\\Users\\Mark\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
-  "editor.tabSize": 4
+  "editor.tabSize": 4,
+  "cSpell.ignoreWords": [
+    "ecommerce",
+    "openpyxl"
+  ],
+  "jupyter.jupyterServerType": "local"
 }
